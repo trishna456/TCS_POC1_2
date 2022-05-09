@@ -1,0 +1,14 @@
+.ANDSelect {
+    padding: 7px 10px;
+    border-radius: 3px;
+}
+
+.AddButton {
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 7px 10px;
+    width: 250px;
+    margin: 0px 10px;
+    border-radius: 3px;
+}
