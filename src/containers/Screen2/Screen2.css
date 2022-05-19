@@ -1,0 +1,39 @@
+.Screen2Container {
+    background-color: rgba(251, 201, 201, 0.8);
+    padding: 10px 50px;
+    margin: 30px;
+    border: 1px solid rgb(199, 125, 125);
+    border-radius: 5px;
+}
+
+.Conatraints {
+    background-color: #ccc;
+    padding: 10px 60px;
+    border-radius: 5px;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.Mandatory {
+    color: rgb(205, 5, 5);
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+.Container {
+    border: 1px solid rgb(199, 125, 125);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.InputMargin {
+    margin: 5px 0px 10px 0px;
+}
+
+.DeleteButton {
+    background-color: rgb(200, 6, 6);
+    border: none;
+    color: white;
+    border-radius: 3px;
+    font-weight: bold;
+}
